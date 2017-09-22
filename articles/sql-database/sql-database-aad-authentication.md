@@ -111,6 +111,7 @@ Azure Active Directory 驗證支援下列方法，使用 Azure AD 身分識別�
 - 如需資料庫主體的詳細資訊，請參閱[主體](https://msdn.microsoft.com/library/ms181127.aspx)。
 - 如需資料庫角色的詳細資訊，請參閱[資料庫角色](https://msdn.microsoft.com/library/ms189121.aspx)。
 - 如需 SQL Database 中防火牆規則的詳細資訊，請參閱 [SQL Database 防火牆規則](sql-database-firewall-configure.md)。
+- 如需技術影片，請參閱 [深入研究 Windows Server 2016 Active Directory] (https://channel9.msdn.com/Series/Microsoft-IT-Friday/Windows-Server-2016-Active-Directory1)。
 
 <!--Image references-->
 
